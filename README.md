@@ -1,9 +1,9 @@
 # Máquinas Virtuais
 
-## Enunciado
+## Antes de começar
+Esse exercício é opcional. Caso seu PC não consiga executar VMs por questões de hardware, use o tempo livre para revisar outros conteúdos ou focar no projeto.
 
-Caso seu PC não consiga executar VMs utilize esse tempo para estudo livre.<br>
-Você ainda precisa participar do feedback, não falte-o!
+## Enunciado
 
 ### Exercício 1
 
