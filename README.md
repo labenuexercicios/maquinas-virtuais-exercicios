@@ -7,7 +7,7 @@ Esse exercício é opcional. Caso seu PC não consiga executar VMs por questões
 
 ### Exercício 1
 
-Delete as VMs que você criou e crie novamente uma VM com Ubuntu.
+Delete as VMs que você criou durante as práticas e crie novamente uma VM com Ubuntu.
 
 ### Exercício 2
 
